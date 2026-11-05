@@ -32,3 +32,7 @@ Python, NumPy, pandas, Matplotlib, Plotly, MySQL, draw.io, Visual Paradigm.
 ## Лицензия
 
 [MIT](LICENSE)
+
+---
+
+<sub>Код написан с мая 2024 по октябрь 2025, на GitHub выложен в ноябре 2026. Даты коммитов взяты по датам исходных файлов, README добавлен при выгрузке.</sub>
